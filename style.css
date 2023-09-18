@@ -1,0 +1,45 @@
+
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(images/bg-pattern-mobile.svg);
+}
+
+img {
+    max-width: 100%;
+}
+
+.logo {
+    padding: 1.5rem;
+}
+
+
+.description {
+    padding: 2.5rem;
+}
+
+label {
+    display: block;
+}
+
+input, p{
+    margin-top: 1rem;
+}
+
+
+a {
+    background-color: blue;
+    display: inline-block;
+    padding: 0.4rem;
+}
+
+input{
+    padding: 0.6rem;
+}
+
+
+
